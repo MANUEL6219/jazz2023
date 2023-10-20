@@ -1,0 +1,86 @@
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+	margin: 0;
+	background-image: url("/DGCyP/images/fondo.jpg");
+}
+
+header {
+	background: rgb(30, 29, 30);
+	width: 100%;
+}
+
+header img {
+	width: 100%;
+}
+
+header p {
+	color: #e4e4e4;
+	font-size: medium;
+	margin: 10px;
+	text-align: center;
+}
+
+a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	line-height: 100px;
+	margin: 0;
+}
+
+.article {
+	padding: 10px;
+	margin: 10px;
+	background: rgb(188, 188, 188);
+	opacity: 0.95;
+	color: rgb(0, 0, 0);
+}
+
+.article img {
+	width: 100%;
+	opacity: 1;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.c1 {
+	flex-basis: 52%;
+	
+}
+
+.c2 {
+	flex-basis: 42%;
+	
+}
+.c3 {
+	flex-basis: 22%;
+	
+}
+.c4 {
+	flex-basis: 22%;
+	
+}
+.c5 {
+	flex-basis: 22%;
+	
+}
+.c6 {
+	flex-basis: 22%;
+	
+}
+
+
+
+
